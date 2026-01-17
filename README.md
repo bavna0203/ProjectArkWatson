@@ -74,4 +74,4 @@ You can start from the provided template at `ProjectArkWatson/config_template.en
   - Tool-centric reasoning for classification, severity assessment, and optimization
 - Optional integration path to import agents into watsonx Orchestrate and register tools for production use
 ## Certificate 
-![IBM TechXChange Certificate.pdf](IBM TechXChange Certificate.pdf)
+Please check "IBM TechXChange Certificate.pdf" for the certificate!
