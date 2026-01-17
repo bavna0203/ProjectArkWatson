@@ -73,4 +73,5 @@ You can start from the provided template at `ProjectArkWatson/config_template.en
   - Granite family (e.g., `ibm/granite-13b-instruct-v2`) for classification and planning prompts
   - Tool-centric reasoning for classification, severity assessment, and optimization
 - Optional integration path to import agents into watsonx Orchestrate and register tools for production use
-
+## Certificate 
+![IBM TechXChange Certificate.pdf]
